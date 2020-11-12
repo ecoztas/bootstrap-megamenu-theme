@@ -1,0 +1,10 @@
+{
+    "name": "jade-kit",
+    "version": "1.0.0",
+    "description": "Frond-End Development Kit",
+    "main": "index.js",
+    "repository": "https://github.com/ecoztas/jade-kit",
+    "author": "ÖZTAŞ, Emre Can <me@emrecanoztas.com>",
+    "license": "MIT",
+    "private": false
+}
